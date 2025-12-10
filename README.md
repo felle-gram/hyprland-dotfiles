@@ -2,7 +2,6 @@
 My personal Hyprland/Wayland config. Minimal, functional, and built for daily use.
 
 ## Screenshot
-
 ![Desktop Screenshot](./ss.png)
 
 ## Setup
