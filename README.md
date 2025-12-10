@@ -1,6 +1,10 @@
 # hyprland-dotfiles
 My personal Hyprland/Wayland config. Minimal, functional, and built for daily use.
 
+## Screenshot
+
+![Desktop Screenshot](./ss.png)
+
 ## Setup
 1. Clone this repo to `~/.config/`.
 2. Install [Hyprland](https://hyprland.org/) and required dependencies.
